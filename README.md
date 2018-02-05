@@ -8,7 +8,7 @@ The movies can be seen on basis of "Most Popular" or "Top Rated" categories by s
 
 # Main Activity
 The main activity contains the list of all the movies. 
-All movie posters are displayed in a Grid Layout using a GridLayoutManager and RecyclerView classes. ViewHolders have been used to efficiently reduce the CPU load while displayinh the grid by recycling views. 
+All movie posters are displayed in a Grid Layout using a GridLayoutManager and RecyclerView classes. ViewHolders have been used to efficiently reduce the CPU load while displaying the grid by recycling views. 
 
 Every poster in the MainActivity has a OnClickListener applied, which takes the user to the DetailActivity on a click.
 
